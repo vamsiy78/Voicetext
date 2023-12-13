@@ -10,7 +10,9 @@ The website is live on github pages, try it out!
 
 
 
-## 🔗 Website Link
+## 🔗 Links
 [![Voicetextvv](https://img.shields.io/badge/Click%20to%20spawn-8A2BE2)](https://vamsiy78.github.io/Voicetext/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-naga-vamsi)
 
 
