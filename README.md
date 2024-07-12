@@ -7,6 +7,11 @@ The presented web application leverages HTML, CSS, and JavaScript to create an i
 
 
 
+## 🚀 Live Demo
+
+Check out the live version of my portfolio website: [VocalVerse](https://voicetextvoice.netlify.app/)
+
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-naga-vamsi)
